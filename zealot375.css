@@ -1,0 +1,60 @@
+@media only screen and (max-width: 375px){
+  .btn{
+    width: 15%;
+    background-color: white;
+    border: none;
+  }
+  
+  .output h1{
+   font-size: 9.5px;
+   margin-top:-24px;
+   margin-left: 50px;
+  }
+
+  #input{
+    margin-left: 113px;
+    margin-top: -25px;
+  }
+
+  .card{
+    flex: wrap;
+    border: none;
+    padding: 0%;
+  }
+  .card input{
+    width:129px;
+    margin-left: 150px;
+    margin-top:-28px;
+  }
+
+  .card a{
+    text-decoration: none;
+    text-align: center;
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    margin-left:280px;
+    margin-top:-28px;
+  }
+  
+ .w-120{
+  margin-top: 10px;
+  border: 1px solid green;
+  background-color: green;
+ }
+
+  .w-120 h1{
+    margin-left: 10px;
+  }
+ 
+  .w-120 h4{
+    font-size: 9px;
+    margin-left:14px;
+  }
+
+  .w-120 h3{
+    margin-left:280px;
+  }
+
+  }
+
